@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/activates/workspace/uuidAPI/uuidAPI.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/activates/Downloads/sqlite-jdbc-3.8.11.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/activates/workspace/BANana/joda-time-2.9.jar"/>
+	<classpathentry kind="lib" path="F:/apo-server/spigot-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
